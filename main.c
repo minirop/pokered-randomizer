@@ -160,6 +160,7 @@ int main(int argc, char** argv)
 		}
 	}
 
+	// trades
 	GO(0x71B7B);
 	for (int i = 0;i < 10;i++)
 	{
